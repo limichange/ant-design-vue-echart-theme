@@ -1,0 +1,16 @@
+{
+  "name": "ant-design-vue-echart-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limichange/ant-design-vue-echart-theme.git"
+  },
+  "keywords": [],
+  "author": "limichange<limichange@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limichange/ant-design-vue-echart-theme/issues"
+  },
+  "homepage": "https://github.com/limichange/ant-design-vue-echart-theme#readme"
+}
