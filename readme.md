@@ -3,6 +3,7 @@
 ## install
 ```js
 import echarts from 'echarts'
+import echartsTheme from 'ant-design-vue-echart-theme'
 
 echarts.registerTheme('light', echartsTheme)
 ```
